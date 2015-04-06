@@ -1,2 +1,2 @@
 # PLANTARIUM
-Serre Automatisé avec un Arduino et un Raspberry Pi. 
+Serre Automatisée avec un Arduino et un Raspberry Pi. 
