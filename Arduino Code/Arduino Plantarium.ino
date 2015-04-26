@@ -5,6 +5,7 @@ Remerciement à:
 -Monsieur Fidel pour le prêt de son Livre Arduino de Simon MONK (édition Pearson)
 -Lepinkainen pour le code d'affichage DHT22: https://github.com/lepinkainen/DHT_LCD/blob/master/DHT_LCD.ino (domaine public)
 -Eskimon pour éviter les interruptions de la pompe dû au delay: http://eskimon.fr/76-arduino-202-introduire-le-temps (domaine public)
+-Eskimon pour éviter les interruptions avec le delay de la pompe: http://eskimon.fr/76-arduino-202-introduire-le-temps (domaine public)
 */
 #include <SPI.h>
 #include <Ethernet.h>
